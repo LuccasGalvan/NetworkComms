@@ -1,0 +1,4 @@
+﻿  servidor.c
+C:\Users\Luccas\source\repos\aula3\servidor\servidor.c(62,9): warning C4013: 'inet_ntop' indefinido; assumindo extern retornando int
+C:\Users\Luccas\source\repos\aula3\servidor\servidor.c(21,9): warning C4101: 'msg_len': variável local não referenciada
+  servidor.vcxproj -> C:\Users\Luccas\source\repos\aula3\x64\Debug\servidor.exe

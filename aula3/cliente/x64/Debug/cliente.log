@@ -1,0 +1,5 @@
+﻿  cliente.c
+C:\Users\Luccas\source\repos\aula3\cliente\cliente.c(65,36): warning C4047: 'função': 'u_short' difere em níveis de indireção de 'char *'
+C:\Users\Luccas\source\repos\aula3\cliente\cliente.c(65,36): warning C4024: 'htons': tipos diferentes para parâmetro formal e real 1
+C:\Users\Luccas\source\repos\aula3\cliente\cliente.c(68,15): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  cliente.vcxproj -> C:\Users\Luccas\source\repos\aula3\x64\Debug\cliente.exe

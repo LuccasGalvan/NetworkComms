@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luccas\\source\\repos\\aula3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DF841E-AFC6-44B5-8BE8-12D2FBC07BAA}|cliente\\cliente.vcxproj|C:\\Users\\Luccas\\source\\repos\\aula3\\cliente\\cliente.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7DF841E-AFC6-44B5-8BE8-12D2FBC07BAA}|cliente\\cliente.vcxproj|solutionrelative:cliente\\cliente.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59BD18-C217-4FFC-B216-188ED675B34A}|servidor\\servidor.vcxproj|C:\\Users\\Luccas\\source\\repos\\aula3\\servidor\\servidor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C59BD18-C217-4FFC-B216-188ED675B34A}|servidor\\servidor.vcxproj|solutionrelative:servidor\\servidor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "servidor.c",
+              "DocumentMoniker": "C:\\Users\\Luccas\\source\\repos\\aula3\\servidor\\servidor.c",
+              "RelativeDocumentMoniker": "servidor\\servidor.c",
+              "ToolTip": "C:\\Users\\Luccas\\source\\repos\\aula3\\servidor\\servidor.c",
+              "RelativeToolTip": "servidor\\servidor.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-01T20:09:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cliente.c",
+              "DocumentMoniker": "C:\\Users\\Luccas\\source\\repos\\aula3\\cliente\\cliente.c",
+              "RelativeDocumentMoniker": "cliente\\cliente.c",
+              "ToolTip": "C:\\Users\\Luccas\\source\\repos\\aula3\\cliente\\cliente.c",
+              "RelativeToolTip": "cliente\\cliente.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-01T20:09:34.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
